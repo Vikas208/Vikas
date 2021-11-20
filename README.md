@@ -1,6 +1,6 @@
 - 👋 Hey, Myself Vikas 
 - 👀 I’m interested in web Technologies @React js,@python,@javacript  
-- 🌱 I’m currently pursuing my third year Bachelors's of Science in Computer Application & Information from Ks School of Business Management
+- 🌱 I’m currently pursuing my third year Bachelors's of Science in Computer Application & Information Degree from Ks School of Business Management
 - 💞️ I’m looking to collaborate on Open Source Projects 
 - 📫 You can reach me via 📧 : vp103808@gmail.com 
 
